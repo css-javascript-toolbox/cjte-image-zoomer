@@ -64,13 +64,9 @@ class CJTEImageZoomerPackage_Plugin {
 	public function _pluginActivated() {
 		# Autload CJT!
 		require_once ABSPATH . PLUGINDIR . DIRECTORY_SEPARATOR . 'css-javascript-toolbox' . DIRECTORY_SEPARATOR . 'autoload.inc.php';
-		# Initialize
-		$extensionClass = CJT_Framework_Extensions_Package_Extension::getPluginExtensionClass($this);
-		$stateExtension = CJT_Framework_Extensions_Package_State_Extension::create($extensionClass);
-		$statePackage = new CJT_Framework_Extensions_Package_State_Packages($stateExtension->getExtensionDeDoc());
-		$extBlocks = new CJT_Framework_Extensions_Package_Blocks($statePackage);
-		# Enable all Blocks associated with extension packages
-		$extBlocks->setState(CJT_Framework_Extensions_Package_Blocks::ACTIVE);
+		# Activate Plugin
+		$activator = new CJT_Framework_Extensions_Package_Activator($this);
+		$activator->activate();
 	}
 
 	/**
