@@ -15,6 +15,9 @@ CJT Extension Plugin that Adds image zooming capability to your Wordpress site i
 
 Allows Wordpress site visitors to get image zooming by hovering the mouse over the point they're like to get zoomed.
 
+This extension is currently in BETA release and 
+the parameters form is a little technical however the second release will got those parameters more simple. More parameters would be also added later 
+
 = Features =
 - Inner/Outter zooming
 - Controls magnifier size

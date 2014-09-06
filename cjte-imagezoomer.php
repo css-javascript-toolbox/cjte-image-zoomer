@@ -2,7 +2,7 @@
 /*
 Plugin Name: CJT Image Zoomer Extension
 Plugin URI: http://css-javascript-toolbox.com/extensions/image-zoomer
-Description: Provide zooming ability for your site images
+Description: CJT Extension Plugin that Adds image zooming capability to your Wordpress site images
 Version: 0.5
 Author: Wipeout Media 
 Author URI: http://css-javascript-toolbox.com
