@@ -9,53 +9,53 @@ Requires at least: 3.9
 Tested up to: 3.9.2
 Stable tag: 0.5
 
-CJT Extension Plugin that Adds image zooming capability to your Wordpress site images.
+This CJT extension plugin adds various zooming capabilities to your images.
 
 == Description ==
+This script extension plugin allows you to add a zoom functionality to your images. It is powerful, easy to configure, and features a stack of image zoom options.
 
-Allows Wordpress site visitors to get image zooming by hovering the mouse over the point they're like to get zoomed.
-
-This extension is currently in BETA release and 
-the parameters form is a little technical however the second release will got those parameters more simple. More parameters would be also added later 
+This extension is currently in BETA and the settings form is a little technical. In the next release, we will make this much simpler and user-friendly. More parameters will also be added later.
 
 = Features =
-- Inner/Outter zooming
-- Controls magnifier size
-- Controls Zoom range value
+- Inner/outer zooming
+- Controls for magnifier size
+- Controls for zoom range value
 - Zoom speed
 - Magnifier animation
 - Zoom animation speed
 
 == Installation ==
-1. Install [CJT Plugin](http://wordpress.org/plugins/css-javascript-toolbox/)
-2. Upload/Install CJT-Extension Plugin from Wordpress dashboard Plugins page.
+1. Install and Activate the [CJT Plugin](http://wordpress.org/plugins/css-javascript-toolbox/)
+2. Install/Upload and then Activate the cjte-imagezoomer.zip file using the WordPress Plugin uploader
 
 == Frequently Asked Questions ==
-= How to add zooming ability to my images?
-From Wordress edit Post/Page or even Custom-Posts there is a CJT Shortcode button added to TinMCY editor toolbox, click it and select the Extension from the popup menu, fill the form and click done.
+= How do I use this plugin?
+Edit the Page/Post you want to add an image with zooming capability
+Click the CJT shortcode embed button and select Image Zoomer
+Configure the settings and add your image
+Click Done and then Publish/Update your Page/Post
 
-= Is it possible to use multiple Shortcodes for the same post?
-Yes, this is possible, just repeat the steps as many times as needed.
+= Is it possible to use multiple shortcodes for the same post?
+Yes, this is possible. Just repeat the steps as many times as needed.
 
 == Screenshots ==
-
-1. CJT Shortcode button
-2. CJT Shortcode Extensions list popup menu
-3. Extension parameters form
-4. Generated Shortcode
-5. Result
+1. Add script using the CJT Shortcode Embed button
+2. Configure the parameters for zoom and magnify, etc
+3. Add your image (can accept multiple images)
+4. Shortcode is generated and added to the editor
+5. The Image Zoom effect is working on your image
 
 == Changelog ==
-
 = 0.5 =
-* This is the very first release.
+* First release
 
 == Requirements ==
 In order to get this Plugin/Extension works [CJT Plugin](http://wordpress.org/plugins/css-javascript-toolbox/) must be installed first
 
 == Credits ==
-	
 Copyright © 2013, Wipeout Media.
+
+This CJT extension plugin is based on the jQuery script by Sergei Zaragulov (http://zoomsl.sergeland.ru). All licenses and attribution notices are kept intact.
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
