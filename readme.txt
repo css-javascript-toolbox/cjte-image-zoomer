@@ -2,7 +2,7 @@
 Contributors: wipeoutmedia
 Author URL: http://css-javascript-toolbox.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWDWF75JHT9Q6
-Tags: image, picture, photo, zoom, zooming, shortcode
+Tags: image, picture, photo, zoom, zooming, shortcode, extension, cjt, cjte, zoomer
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.9
@@ -12,7 +12,7 @@ Stable tag: 0.5
 This CJT extension plugin adds various zooming capabilities to your images.
 
 == Description ==
-This script extension plugin allows you to add a zoom functionality to your images. It is powerful, easy to configure, and features a stack of image zoom options.
+This [CJT Plugin](http://wordpress.org/plugins/css-javascript-toolbox/) script extension allows you to add a zoom functionality to your images through Wordpress Shortcodes. It is powerful, easy to configure, and features a stack of image zoom options.
 
 This extension is currently in BETA and the settings form is a little technical. In the next release, we will make this much simpler and user-friendly. More parameters will also be added later.
 
