@@ -1,4 +1,4 @@
-=== CJTE Image Zoomer ===
+=== CJTe Image Zoomer ===
 Contributors: wipeoutmedia
 Author URL: http://css-javascript-toolbox.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EWDWF75JHT9Q6
@@ -7,7 +7,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.9
 Tested up to: 3.9.2
-Stable tag: 0.5
+Stable tag: 1.0
 
 This CJT extension plugin adds various zooming capabilities to your images.
 
@@ -46,6 +46,9 @@ Yes, this is possible. Just repeat the steps as many times as needed.
 5. The Image Zoom effect is working on your image
 
 == Changelog ==
+= 1.0 =
+* latest CJT Framework version compatibility
+
 = 0.5 =
 * First release
 
